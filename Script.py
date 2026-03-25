@@ -6,7 +6,7 @@ class text(object):
 
 𝘑𝘶𝘴𝘵 𝘴𝘦𝘯𝘥 𝘢𝘯𝘺 𝘵𝘦𝘹𝘵 𝘪𝘯 𝘵𝘩𝘪𝘴 𝘤𝘩𝘢𝘵, 𝘢𝘯𝘥 𝘐’𝘭𝘭 𝘨𝘪𝘷𝘦 𝘺𝘰𝘶 𝘢 𝘭𝘪𝘴𝘵 𝘰𝘧 𝘴𝘵𝘺𝘭𝘦𝘥 𝘷𝘦𝘳𝘴𝘪𝘰𝘯𝘴 𝘺𝘰𝘶 𝘤𝘢𝘯 𝘤𝘰𝘱𝘺 𝘢𝘯𝘥 𝘶𝘴𝘦 𝘢𝘯𝘺𝘸𝘩𝘦𝘳𝘦.
 
-<b><blockquote>‣ 𝖬𝖺𝗂𝗇𝗍𝖺𝗂𝗇𝖾𝖽 𝖡𝗒: <a href='https://techifybots.vercel.app'>𝖱𝖺𝗁𝗎𝗅</a></blockquote></b>"""
+<b><blockquote>‣ 𝖬𝖺𝗂𝗇𝗍𝖺𝗂𝗇𝖾𝖽 𝖡𝗒: <a href='https://t.me/anujedits76'>ANUJ</a></blockquote></b>"""
     
     LOG = """👁️‍🗨️ 𝘜𝘚𝘌𝘙 𝘋𝘌𝘛𝘈𝘐𝘓𝘚
 
@@ -17,12 +17,12 @@ class text(object):
 
 𝘉𝘺 = @{}"""
     
-    ABOUT = """<b>‣ 𝖬𝗒 𝖭𝖺𝗆𝖾 :</b> <a href='https://youtube.com/@techifybots'>𝖳𝖾𝖼𝗁𝗂𝖿𝗒 𝖡𝗈𝗍𝗌</a>
+    ABOUT = """<b>‣ 𝖬𝗒 𝖭𝖺𝗆𝖾 :</b> <a href='https://youtube.com/@araftahindidubbedep'>ANUJ</a>
 <b>‣ 𝖫𝗂𝖻𝗋𝖺𝗋𝗒 :</b> <a href='https://docs.pyrogram.org/'>𝖯𝗒𝗋𝗈𝗀𝗋𝖺𝗆</a>
 <b>‣ 𝖣𝖺𝗍𝖺𝖻𝖺𝗌𝖾 :</b> <a href='https://www.mongodb.com/'>𝖬𝗈𝗇𝗀𝗈𝖣𝖡</a>
 <b>‣ 𝖫𝖺𝗇𝗀𝗎𝖺𝗀𝖾 :</b> <a href='https://www.python.org/download/releases/3.0/'>𝖯𝗒𝗍𝗁𝗈𝗇 𝟥</a>
 <b>‣ 𝖡𝗈𝗍 𝖲𝖾𝗋𝗏𝖾𝗋 :</b> <a href='https://www.koyeb.com/'>𝖪𝗈𝗒𝖾𝖻</a>
-<b>‣ 𝖢𝗋𝖾𝖺𝗍𝖾𝖽 𝖡𝗒 :</b> <a href='https://telegram.me/callownerbot'>𝖱𝖺𝗁𝗎𝗅</a>"""
+<b>‣ 𝖢𝗋𝖾𝖺𝗍𝖾𝖽 𝖡𝗒 :</b> <a href='https://telegram.me/anujedits76'>ANUJ</a>"""
 
     HELP = """✨ 𝘏𝘰𝘸 𝘛𝘰 𝘜𝘴𝘦:
 
